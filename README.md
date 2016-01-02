@@ -5,7 +5,7 @@ MarsDB-LocalStorage
 [![npm version](https://badge.fury.io/js/marsdb-localstorage.svg)](https://www.npmjs.com/package/marsdb-localstorage)
 [![Dependency Status](https://david-dm.org/c58/marsdb-localstorage.svg)](https://david-dm.org/c58/marsdb-localstorage)
 
-MarsDB storage implementation for LocalStorage.
+[MarsDB](https://github.com/c58/marsdb) storage implementation for LocalStorage.
 
 ## Usage
 ```javascript
