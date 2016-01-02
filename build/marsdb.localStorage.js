@@ -109,7 +109,7 @@ var LocalStorageManager = (function (_StorageManager) {
 
 exports.default = LocalStorageManager;
 },{"marsdb":undefined}],2:[function(require,module,exports){
-module.exports = require('./dist/LocalStorageManager');
+module.exports = require('./dist/LocalStorageManager').default;
 
 },{"./dist/LocalStorageManager":1}]},{},[2])(2)
 });
