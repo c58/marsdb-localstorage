@@ -1,6 +1,6 @@
 {
   "name": "marsdb-localstorage",
-  "version": "0.0.4",
+  "version": "0.1.0",
   "author": "Artem Artemev <art@studytime.me>",
   "contributors": [
     "Artem Artemev"
@@ -21,10 +21,13 @@
     "url": "git+ssh://git@github.com/c58/marsdb-localstorage.git"
   },
   "dependencies": {
-    "marsdb": "^0.5.18",
     "invariant": "^2.2.0"
   },
+  "peerDependencies": {
+    "marsdb": "0.6.x"
+  },
   "devDependencies": {
+    "marsdb": "^0.6.0",
     "core-js": "^2.0.0",
     "babel-cli": "^6.3.17",
     "babel-eslint": "^5.0.0-beta6",
